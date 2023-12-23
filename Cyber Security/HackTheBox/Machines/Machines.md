@@ -1,0 +1,4 @@
+[[HackTheBox]]
+
+## Machine Difficulty
+- [[Easy]]
